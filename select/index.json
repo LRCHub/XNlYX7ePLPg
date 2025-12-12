@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夜行バスにて",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-12T13:17:18.484076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜行バスにて",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_夜行バスにて_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜行バスにて",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/02_夜行バスにて_花譜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜行バスにて",
+      "artist": "Kaf",
+      "has_synced": true,
+      "path": "select/03_夜行バスにて_Kaf.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜行バスにて (ろくろ Remix)",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/04_夜行バスにて_(ろくろ_Remix)_花譜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜行バスにて (ろくろ Remix)",
+      "artist": "Kaf",
+      "has_synced": false,
+      "path": "select/05_夜行バスにて_(ろくろ_Remix)_Kaf.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜行バスにて",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_夜行バスにて_花譜.txt"
+    }
+  ]
+}
